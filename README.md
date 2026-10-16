@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Michał+Lyra+:D)](https://git.io/typing-svg)
 
+---
 ### About Me
 
 I'm studying Applied Computing (Cloud & Networks) at SETU Waterford.
@@ -7,9 +8,8 @@ I enjoy programming, exploring how technology works, and building practical proj
 
 Always learning, experimenting, and building!
 
-<br>
-
 ### Tech Stack
+---
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
@@ -37,9 +37,9 @@ Always learning, experimenting, and building!
 </div>
 
 
-<br>
-
 ### Connect with me
+---
+
 <p>
     <a href="mailto:michal05lyra@gmail.com" target="blank">
         <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="michal05lyra@gmail.com" height="30" style="vertical-align:middle; margin:5px"/>
