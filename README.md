@@ -8,6 +8,7 @@ I enjoy programming, exploring how technology works, and building practical proj
 
 Always learning, experimenting, and building!
 
+---
 ### Tech Stack
 ---
 <div align="center">
