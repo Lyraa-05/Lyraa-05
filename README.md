@@ -39,7 +39,6 @@ Always learning, experimenting, and building!
 
 
 ---
----
 ### Connect with me
 ---
 
