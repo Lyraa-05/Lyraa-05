@@ -2,7 +2,7 @@
 
 ---
 ### About Me
-
+---
 I'm studying Applied Computing (Cloud & Networks) at SETU Waterford.
 I enjoy programming, exploring how technology works, and building practical projects. I'm particularly interested in cloud computing, networking, Linux, and IoT, with a focus on hands-on learning and creating things that bring ideas to life.
 
@@ -38,6 +38,8 @@ Always learning, experimenting, and building!
 </div>
 
 
+---
+---
 ### Connect with me
 ---
 
